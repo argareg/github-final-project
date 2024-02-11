@@ -12,6 +12,7 @@ Output
 
 Please consider the below factors while contributing
 
+```
 Code Style:
 Maintain a consistent code style for readability.
 
@@ -29,3 +30,4 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+```
